@@ -5,7 +5,7 @@ A production-ready microservices-based AI code assistant featuring RAG capabilit
 ## Architecture
 - **Frontend**: React (Vite) + Tailwind CSS + Monaco Editor
 - **Backend Layer**: Java Spring Boot (Proxy & JWT Authentication)
-- **AI Analytics Service**: Python FastAPI (LangChain, FAISS, Sentence-Transformers, OpenAI)
+- **AI Analytics Service**: Python FastAPI (LangChain, FAISS, Sentence-Transformers, Gemini)
 
 ---
 
