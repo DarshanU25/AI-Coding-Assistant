@@ -1,0 +1,22 @@
+# Environments
+.env
+venv/
+uploads/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Java / Maven
+backend-java/target/
+maven/
+maven.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac
+.DS_Store

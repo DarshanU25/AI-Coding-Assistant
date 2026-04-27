@@ -1,0 +1,9 @@
+server:
+  port: 8085
+
+app:
+  jwt:
+    secret: 9u/3C0zXYv9N+V1jO3bK/p6F8RmV3HjE2Lw5X7n9oQ0= # Base64 encoded secret for JWT
+    expiration: 86400000 # 24 hours
+  python-service:
+    url: http://localhost:8000
